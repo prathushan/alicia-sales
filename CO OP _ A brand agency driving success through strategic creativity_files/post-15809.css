@@ -1,0 +1,81 @@
+.elementor-kit-15809{--e-global-color-primary:#F8F5EB;--e-global-color-secondary:#E5E126;--e-global-color-text:#EA1987;--e-global-color-accent:#A7A9AC;--e-global-typography-primary-font-family:"Poppins";--e-global-typography-primary-font-size:56px;--e-global-typography-primary-font-weight:800;--e-global-typography-secondary-font-family:"Poppins";--e-global-typography-secondary-font-size:56px;--e-global-typography-secondary-font-weight:900;--e-global-typography-text-font-family:"Poppins";--e-global-typography-text-font-size:94px;--e-global-typography-text-font-weight:900;--e-global-typography-accent-font-family:"poppins";--e-global-typography-accent-font-size:16px;--e-global-typography-accent-font-weight:400;background-color:var( --e-global-color-primary );color:#000000;font-family:"poppins", Sans-serif;}.elementor-kit-15809 button:hover,.elementor-kit-15809 button:focus,.elementor-kit-15809 input[type="button"]:hover,.elementor-kit-15809 input[type="button"]:focus,.elementor-kit-15809 input[type="submit"]:hover,.elementor-kit-15809 input[type="submit"]:focus,.elementor-kit-15809 .elementor-button:hover,.elementor-kit-15809 .elementor-button:focus{background-color:var( --e-global-color-text );color:#FFFFFF;}.elementor-kit-15809 e-page-transition{background-color:#FFBC7D;}.elementor-kit-15809 p{margin-bottom:0px;}.elementor-kit-15809 h1{font-family:"poppins", Sans-serif;font-size:66px;font-weight:700;font-style:normal;line-height:58px;}.elementor-kit-15809 h2{font-family:"poppins", Sans-serif;font-size:175px;font-weight:700;font-style:normal;text-decoration:none;line-height:130px;}.elementor-kit-15809 h3{font-family:"poppins", Sans-serif;font-size:110px;line-height:100px;}.elementor-kit-15809 h4{font-family:"poppins", Sans-serif;font-size:72px;line-height:70px;}.elementor-kit-15809 h5{font-family:"poppins", Sans-serif;font-size:48px;line-height:38px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding .site-logo img{width:191px;max-width:191px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.p {
+    font-family: poppins;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.p-m {
+     font-family: poppins;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 300;
+}
+
+.p-xl {
+     font-family: poppins;
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 300;
+}
+
+button.pink-btn:active,
+button.pink-btn:focus,
+button.pink-btn:loading{
+    background-color: #EA1987 !important;
+    color: #ffffff !important;
+}
+
+.no-overflow {
+    overflow: hidden;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'poppins';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://coopbrand.co/wp-content/uploads/2024/08/Poppins-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
